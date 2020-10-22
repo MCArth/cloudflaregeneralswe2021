@@ -1,0 +1,6 @@
+name = "cloudflaregeneralswe2021"
+type = "javascript"
+account_id = "45cf06b2dbe907d226da6bd00a5c22ae"
+workers_dev = true
+route = ""
+zone_id = ""
